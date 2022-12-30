@@ -1,3 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="20.953" height="20.953" viewBox="0 0 20.953 20.953">
-  <path id="Icon_ionic-md-close" data-name="Icon ionic-md-close" d="M28.477,9.619l-2.1-2.1L18,15.9,9.619,7.523l-2.1,2.1L15.9,18,7.523,26.381l2.1,2.1L18,20.1l8.381,8.381,2.1-2.1L20.1,18Z" transform="translate(-7.523 -7.523)" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="12.021" height="12.021" viewBox="0 0 12.021 12.021">
+  <g id="exit" transform="translate(-302.222 -21.222)">
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="15" height="2" transform="translate(303.636 21.222) rotate(45)" fill="#fff"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="15" height="2" transform="translate(314.243 22.636) rotate(135)" fill="#fff"/>
+  </g>
 </svg>
